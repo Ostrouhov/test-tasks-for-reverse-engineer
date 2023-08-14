@@ -1,0 +1,1 @@
+["Красноярский Край", "Asia/Krasnoyarsk"],["Тыва Республика", "Asia/Krasnoyarsk"],["Хакасия Республика", "Asia/Krasnoyarsk"],
